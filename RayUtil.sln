@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataHelper", "Data\DataHelper.csproj", "{2A849CC9-49D4-4329-A93B-7E445EB244C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTest", "DataTest\DataTest.csproj", "{899F8799-49FA-4733-8D6D-E3501273897D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{C2DC67A7-C30E-46E8-9B40-0998A65381B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validations", "Validations\Validations.csproj", "{7FECC258-16A8-416C-AF3E-143A18723DCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{AE1C7B94-3D49-4324-8D92-1E1023A34595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationTest", "ValidationTest\ValidationTest.csproj", "{EA96B92C-848F-4DE5-B938-70020DB41D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHelper", "ExceptionHelper\ExceptionHelper.csproj", "{0C50E46B-07B8-4559-B35D-0FFD9BB61A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializerTest", "SerializerTest\SerializerTest.csproj", "{CA326446-09D0-4755-BC3D-CC3001BC7F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A849CC9-49D4-4329-A93B-7E445EB244C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A849CC9-49D4-4329-A93B-7E445EB244C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A849CC9-49D4-4329-A93B-7E445EB244C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A849CC9-49D4-4329-A93B-7E445EB244C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899F8799-49FA-4733-8D6D-E3501273897D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899F8799-49FA-4733-8D6D-E3501273897D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899F8799-49FA-4733-8D6D-E3501273897D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899F8799-49FA-4733-8D6D-E3501273897D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DC67A7-C30E-46E8-9B40-0998A65381B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DC67A7-C30E-46E8-9B40-0998A65381B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DC67A7-C30E-46E8-9B40-0998A65381B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DC67A7-C30E-46E8-9B40-0998A65381B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FECC258-16A8-416C-AF3E-143A18723DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FECC258-16A8-416C-AF3E-143A18723DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FECC258-16A8-416C-AF3E-143A18723DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FECC258-16A8-416C-AF3E-143A18723DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA96B92C-848F-4DE5-B938-70020DB41D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA96B92C-848F-4DE5-B938-70020DB41D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA96B92C-848F-4DE5-B938-70020DB41D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA96B92C-848F-4DE5-B938-70020DB41D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C50E46B-07B8-4559-B35D-0FFD9BB61A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C50E46B-07B8-4559-B35D-0FFD9BB61A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C50E46B-07B8-4559-B35D-0FFD9BB61A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C50E46B-07B8-4559-B35D-0FFD9BB61A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA326446-09D0-4755-BC3D-CC3001BC7F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA326446-09D0-4755-BC3D-CC3001BC7F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA326446-09D0-4755-BC3D-CC3001BC7F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA326446-09D0-4755-BC3D-CC3001BC7F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{899F8799-49FA-4733-8D6D-E3501273897D} = {AE1C7B94-3D49-4324-8D92-1E1023A34595}
+		{EA96B92C-848F-4DE5-B938-70020DB41D27} = {AE1C7B94-3D49-4324-8D92-1E1023A34595}
+		{CA326446-09D0-4755-BC3D-CC3001BC7F94} = {AE1C7B94-3D49-4324-8D92-1E1023A34595}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<School xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SchoolName="新东方" Address="徐汇区">
+  <Teachers>
+    <Teacher>
+      <TeacherName>haha</TeacherName>
+      <TeacherAge>10</TeacherAge>
+    </Teacher>
+    <Teacher>
+      <TeacherName>hehe</TeacherName>
+      <TeacherAge>20</TeacherAge>
+    </Teacher>
+  </Teachers>
+</School>
